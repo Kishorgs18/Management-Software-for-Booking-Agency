@@ -1,0 +1,502 @@
+artist_id,family_name,given_name,alias,category,contract_start,contract_end,agent_id,commission
+0,Odowd,Neely,,music,2008-07-25,,0,0.08
+1,Kelton,Starling,,music,2008-09-01,2022-04-16,0,0.1
+2,Iding,Lela,Lela,music,2008-12-21,,0,0.08
+3,Leck,Keaton Bryson,,theater,2009-01-11,2022-11-25,0,0.13
+4,Vivanco,Kinsley,VivaK,dance,2009-04-26,2017-11-15,1,0.08
+5,Naumenko,Melodie,,magic,2009-05-23,,0,0.04
+6,Zerafa,Shedrick,,comedy,2009-08-07,2016-05-15,0,0.09
+7,Mekic,Melonie,,music,2009-09-03,,0,0.1
+8,Fagaragan-Tomaszewski,Margurite,,fashion,2009-09-03,,0,0.12
+9,Goldsbury,Liam Grove,,comedy,2009-09-04,2023-12-12,0,0.14
+10,Biggerstaff,Domenico,,fashion,2009-10-08,,0,0.09
+11,Dozeman,Shyanne Danette,,theater,2009-10-14,,0,0.1
+12,Cialdella,Manervia,,fashion,2009-10-28,2017-11-27,0,0.09
+13,Bump,Sheena,,music,2009-11-15,,0,0.1
+14,Hagenow-Manker,Trinidad,Power of Three,wrestling,2009-11-23,,0,0.1
+15,Witkoski,Christina,,theater,2010-01-05,2021-10-13,2,0.13
+16,Inda,Jetta,,wrestling,2010-02-25,,0,0.09
+17,Innella-Birdseye,Gillian,,dance,2010-03-05,2020-10-04,2,0.1
+18,Distefano,Freddie,Federico,dance,2010-03-30,2021-05-08,0,0.13
+19,Coronilla,Rosco,,dance,2010-05-01,,0,0.09
+20,Ahmady,Amin,,magic,2010-05-21,2020-06-03,3,0.11
+21,Trichilo,Lavera Azul,,dance,2010-07-29,2019-04-03,3,0.11
+22,Gerstenberg,Andrew,,comedy,2010-08-02,,0,0.11
+23,Cammarn,Tangela,,fashion,2010-08-13,,0,0.1
+24,Roberson,Albertha,,music,2010-08-16,2013-01-21,2,0.09
+25,Rogish,Danelle Florance Gerda,,dance,2010-08-27,,0,0.09
+26,Ferch,Chauncy,The Mygician,magic,2010-09-28,,2,0.1
+27,Carlman,Fumiko,,wrestling,2010-11-13,2018-07-07,5,0.09
+28,Bisnauth-Lagios,Marques Della,,music,2010-11-17,2020-07-26,5,0.06
+29,Vanella-Gunnarsson,Laddie,,dance,2010-12-24,2020-11-21,4,0.09
+30,Kepple-Tursky,Gilda,,fashion,2011-01-27,2020-10-04,2,0.09
+31,Likely,Orlin Johnson,,fashion,2011-02-17,,0,0.08
+32,Lindke,Andria Karlee,,wrestling,2011-03-31,,5,0.13
+33,Mikesh,Brian Joycelyn Rosalie,,magic,2011-04-21,,0,0.09
+34,Hindbaugh-Concepcion,Shawna,,dance,2011-06-13,2023-11-15,2,0.13
+35,Makal,Alcide,,dance,2011-06-19,2018-08-28,3,0.13
+36,Carmel,Ericka,Ery,dance,2011-08-06,2019-10-31,3,0.07
+37,Diarte,Adele,,music,2011-08-20,,5,0.09
+38,Mullin-Lammon,Lavonda Emogene Alexandra,,magic,2011-08-21,2020-03-29,0,0.08
+39,Diforte,Tillman,,magic,2011-09-12,,0,0.09
+40,Froom,Ignatz,,magic,2011-10-10,2021-01-02,2,0.09
+41,Valvo-Mccrain,Nelia,,magic,2011-10-11,,2,0.12
+42,Charris-Schore,Ronnie Bree,,magic,2011-10-16,2023-07-27,0,0.11
+43,Dron,Clemence Arden,,magic,2011-10-31,2024-09-24,0,0.1
+44,Elfman,Quentin Tucker,,magic,2011-10-31,2024-02-07,2,0.11
+45,Badura,Ronald,,magic,2011-11-22,2022-06-06,0,0.11
+46,Roppel-Holth,Karlee,,magic,2011-11-28,2015-01-04,0,0.09
+47,Caban,Dana,,wrestling,2011-12-06,2021-11-27,5,0.09
+48,Wildonger,Mitchel,,comedy,2011-12-09,2023-04-04,5,0.13
+49,Toomire,Mauricio,,magic,2012-02-25,,5,0.13
+50,Nystedt,Jan,,dance,2012-03-13,2024-07-04,0,0.11
+51,Abdulah,Dudley Michial,,fashion,2012-05-27,2023-12-28,5,0.11
+52,Taus,Martha,,magic,2012-06-01,,0,0.13
+53,Bagley,Rodrigo,,theater,2012-06-15,,2,0.15
+54,Andy,Torry,,music,2012-06-26,2024-04-09,0,0.08
+55,Norling-Dulaney,Lynda,,fashion,2012-08-20,2019-11-19,5,0.1
+56,Mitko,Martez Shemar,,comedy,2012-08-27,,0,0.09
+57,Willibey,Leonore Carmel,,wrestling,2012-09-07,2022-06-27,5,0.08
+58,Nicholes-Trussoni,Liddie Gracelyn,Liz,theater,2012-10-11,,0,0.09
+59,Gujral-Ingolia,Elenor Arminda Chloie,,magic,2012-10-19,,0,0.08
+60,Eff,Blanche,,magic,2012-11-09,,2,0.13
+61,Reckamp-Limage,Brianda,,music,2012-11-17,2023-12-06,5,0.11
+62,Sundal,Makayla,,comedy,2013-01-12,,0,0.09
+63,Wellinghoff,Anson Coley,The Welly,wrestling,2013-01-20,,5,0.1
+64,Grubel,Melbourne Shelly,,dance,2013-03-04,,7,0.08
+65,Souchet,Cari,,wrestling,2013-04-10,2015-02-18,2,0.06
+66,Mumma,Carlisle Russ,,dance,2013-04-17,2017-07-04,5,0.11
+67,Schuppert,Devante,,theater,2013-04-29,2022-11-07,2,0.11
+68,Moraco,Anabelle,,wrestling,2013-05-06,2021-12-04,0,0.14
+69,Finucan-Dignan,Lyle,,theater,2013-05-12,,2,0.1
+70,Hoerth,Marco,,dance,2013-05-22,2022-11-02,8,0.1
+71,Wenthold,Thedore Andrew,,music,2013-05-24,,7,0.13
+72,Mathiew,Huston,,comedy,2013-06-05,2018-08-25,7,0.07
+73,Inabinet,Mell,,music,2013-06-26,,0,0.12
+74,Swanek,Rahul Quint,,magic,2013-07-02,,7,0.08
+75,Frontino,Santana,,fashion,2013-07-03,2018-12-24,3,0.12
+76,Baranko,Norwood,,theater,2013-07-11,2018-05-03,1,0.09
+77,Shorkey,Aarav Emiliano,,music,2013-07-14,,0,0.08
+78,Longsdorf,Marsha,Mary Long,music,2013-07-30,2024-05-05,8,0.09
+79,Faura,Cade,,fashion,2013-08-24,2024-06-22,7,0.05
+80,Hallinan,Sunny,,theater,2013-09-21,,10,0.13
+81,Ladewig-Vesta,Omari Andrae Lukas,,dance,2013-09-27,,10,0.09
+82,Paczkowski,Justice,,comedy,2013-10-21,2021-06-05,0,0.08
+83,Carloss,Octavio,,comedy,2013-11-02,,7,0.11
+84,Dieterman,Camilla,,theater,2013-11-03,,0,0.08
+85,Chiola-Mardigian,Namon,,comedy,2013-11-03,2016-11-05,7,0.12
+86,Hanawalt,Francisca,,magic,2013-11-18,,0,0.07
+87,Delval,Iver,Big Ive,wrestling,2013-11-29,,7,0.12
+88,Horejsi,Meghan Toya Rosia,,music,2013-12-14,2017-12-20,0,0.11
+89,Thong,Ralph Chin,,wrestling,2014-01-06,2024-10-02,0,0.11
+90,Bremen-Kadas,Corina,,wrestling,2014-01-06,2024-03-04,5,0.12
+91,Kohen-Matter,Kirk,,music,2014-01-24,,7,0.11
+92,Hibbler,Sherilyn,,music,2014-03-04,,0,0.11
+93,Knostman,Abbott Chad,,fashion,2014-03-06,,9,0.11
+94,Bergreen,Lesli Pluma,,dance,2014-03-17,,11,0.09
+95,Vig-Enloe,Retta Gretchen,,music,2014-04-15,2019-10-01,9,0.09
+96,Boardwine-Pidde,Dorothy,,magic,2014-04-23,,11,0.11
+97,Mines-Broehm,Ingram,,comedy,2014-04-26,,10,0.11
+98,Tuleja,Milo,,dance,2014-05-26,2018-11-06,2,0.12
+99,Galland,Gaylord,,wrestling,2014-06-03,2020-11-25,8,0.08
+100,Mister,Dominque Marilee,,fashion,2014-07-07,,7,0.1
+101,Vino,Jennie,,music,2014-07-15,2023-04-03,0,0.14
+102,Minge,Magnolia,,wrestling,2014-07-19,2019-05-19,11,0.09
+103,Caporusso,Vincent Bert,Mr. Boom,wrestling,2014-08-29,2022-09-10,5,0.11
+104,Drought,Blanche,,fashion,2014-09-01,,7,0.08
+105,Deroma-To,Lawrence,,dance,2014-09-04,2020-08-04,5,0.1
+106,Vuncannon,Kiley Leda,,fashion,2014-09-18,,7,0.07
+107,Franzke,Zaiden,,comedy,2014-09-24,,5,0.07
+108,Torio-Petak,Festus,,theater,2014-10-09,,0,0.08
+109,Suthard,Doctor,,wrestling,2014-10-17,2018-05-08,0,0.08
+110,Grabau,Alida,,fashion,2014-12-03,2022-11-12,6,0.11
+111,Mottl,Renaldo Braden,,fashion,2014-12-04,,10,0.08
+112,Carpin,Seaborn,,dance,2014-12-29,2023-09-18,2,0.08
+113,Cimato,Chad,,wrestling,2015-01-10,,10,0.12
+114,Starnes,Nichelle,,fashion,2015-01-10,,11,0.12
+115,Bakeberg,Judith,,theater,2015-01-27,2021-01-03,10,0.05
+116,Skomra,Kevin,,music,2015-02-03,,13,0.11
+117,Bascus,Kiersten Annice,,wrestling,2015-02-09,,9,0.08
+118,Hartzo-Perdigao,Murray,,dance,2015-02-11,2024-09-04,0,0.1
+119,Prior,Carmel,,music,2015-02-14,2022-11-04,7,0.12
+120,Dobiesz-Ackroyd,Cora Hasan,,music,2015-03-05,2020-08-26,13,0.12
+121,Madlem,Laisha Sonya,,fashion,2015-03-14,,0,0.08
+122,Gasper,Steve Claude,,dance,2015-03-20,2023-01-02,7,0.11
+123,Pfizenmaier,Maliyah Estelle,,fashion,2015-03-25,,0,0.11
+124,Praught,Delphia,,dance,2015-04-08,,5,0.11
+125,Behrends,Ardelle Girtha,,comedy,2015-04-10,2023-04-07,10,0.1
+126,Miletich,Keon Jerome,KJ Miletich,comedy,2015-05-01,2023-05-22,7,0.11
+127,Send-Vallade,Christian,,fashion,2015-05-07,,9,0.09
+128,Nackley,Sammy Kimberly,,comedy,2015-05-22,,10,0.07
+129,Botros-Hedenberg,Shelly Hymen,,dance,2015-05-31,,0,0.08
+130,Buenviaje,Claude,,comedy,2015-06-19,2024-08-15,5,0.05
+131,Vanderbush,Mame,,magic,2015-06-20,,7,0.1
+132,Rusert-Ruess,Hideo,,music,2015-08-07,2021-05-10,15,0.09
+133,Sequeira,Cale,,theater,2015-08-07,2021-12-10,9,0.1
+134,Climer,Webster,,wrestling,2015-08-15,,5,0.09
+135,Vantrease,Tavion Cleave Nolen,Obscurious,magic,2015-08-29,,11,0.09
+136,Ocampo,Dotty,,music,2015-09-11,,2,0.07
+137,Sacko,Margaret,,fashion,2015-10-13,,9,0.14
+138,Silin-Equihua,Angelo,,theater,2015-10-14,2021-02-21,10,0.1
+139,Basirico,Kermit,Dr. Frog,comedy,2015-10-18,2022-11-08,6,0.09
+140,Megow,Ford,,comedy,2015-11-20,2023-03-07,11,0.13
+141,Melsha,Annie,,theater,2015-12-13,,13,0.05
+142,Mostovoy,Tony Martha,,music,2015-12-18,2023-07-26,8,0.06
+143,Poitevint,Cleora Eldora,,magic,2015-12-22,2020-12-13,10,0.08
+144,Bungo,Dimitrios,,music,2015-12-24,2021-03-22,6,0.09
+145,Sainvil,Triston,,fashion,2016-01-28,2020-02-19,8,0.1
+146,Olimpo-Tomlin,Phillip,The Trampoline,wrestling,2016-01-28,2016-10-20,3,0.1
+147,Skipwith,Clement,,comedy,2016-02-11,,7,0.06
+148,Plont,Casey Gibson,,dance,2016-03-15,,10,0.1
+149,Monestime,Esco Winston,,magic,2016-04-04,2022-12-26,0,0.11
+150,Hallbauer,Aedan,,magic,2016-04-11,2022-10-16,2,0.07
+151,Jussaume,Raoul Justyn,,fashion,2016-04-18,,9,0.09
+152,Jarrette,Alcide,,magic,2016-04-28,2021-02-08,13,0.08
+153,Betting-Maczuga,Leta,,dance,2016-05-03,,2,0.09
+154,Kaveny,Yulissa,,music,2016-05-20,2022-10-04,17,0.08
+155,Alameida,Corina Winnie,,magic,2016-05-30,,7,0.1
+156,Beilsmith-Falanga,Gearldine,,comedy,2016-06-05,2023-03-12,9,0.09
+157,Parter-Tirey,Rollin,,music,2016-06-19,,2,0.1
+158,Accime,Talia,,theater,2016-06-23,2024-07-02,7,0.08
+159,Rougeou,Virgil,,magic,2016-07-26,2017-10-31,5,0.09
+160,Kusilek-Freel,Cassandra,,dance,2016-08-07,2022-12-17,0,0.1
+161,Calisto,Taina Perri,,comedy,2016-08-23,2024-10-07,18,0.11
+162,Lemuz,Thresa,,music,2016-08-25,2022-09-05,18,0.07
+163,Livengood,Romeo,,dance,2016-09-14,2022-08-21,9,0.07
+164,Faroni,Arturo,,theater,2016-09-16,,10,0.1
+165,Robleto,Sullivan Cory,Cory,music,2016-09-22,2019-07-30,1,0.12
+166,Herzfeldt,Nash,,music,2016-10-08,,18,0.12
+167,Kulper,Brennon Kadeem Polk,,comedy,2016-10-18,2023-02-06,9,0.1
+168,Cessor,Toshiko,,dance,2016-12-12,2020-01-24,0,0.1
+169,Stromski,Sky,,theater,2016-12-13,,5,0.09
+170,Capan,Deshawn,,fashion,2016-12-27,2021-12-13,9,0.1
+171,Ashlin,Zadie,,magic,2016-12-30,,2,0.11
+172,Camack,Amalie Manilla,,dance,2017-01-29,,7,0.11
+173,Bouma,Sol,,wrestling,2017-01-30,2022-03-26,8,0.11
+174,Gronholz,Hilliard,,magic,2017-02-03,,10,0.11
+175,Hanif,Roseann,,music,2017-02-25,,9,0.1
+176,Bituin,Royal,,music,2017-03-02,,0,0.07
+177,Mcnish,Audy Edwardo,,theater,2017-03-10,,11,0.11
+178,Papen,Jess Felix,,theater,2017-03-24,2020-05-28,6,0.08
+179,Hylinski,Dawne,,theater,2017-03-25,,19,0.11
+180,Zylstra,Clayton,,music,2017-03-31,2022-02-18,4,0.09
+181,Rengert,Luberta Jorja,Amalia,music,2017-04-09,2020-08-10,8,0.1
+182,Mahmutovic,Virginia,,wrestling,2017-04-21,,5,0.09
+183,Fibich,Rachel,,comedy,2017-04-24,,9,0.1
+184,Isidor,Mack,,wrestling,2017-05-16,2019-06-13,7,0.12
+185,Kosmalski,Gavyn,,wrestling,2017-05-30,2019-04-11,6,0.11
+186,Cupo,Lea Madison,,theater,2017-06-07,,9,0.07
+187,Delmedico,Heidy,,wrestling,2017-06-08,,7,0.1
+188,Afflitto,Warren,,dance,2017-07-03,,7,0.09
+189,Tonsing,Korbin,,comedy,2017-07-16,2023-08-17,7,0.1
+190,Escano-Helzer,Jerad,,fashion,2017-07-22,2021-04-16,0,0.1
+191,Mckissick,Kiara Margarita Sena,,magic,2017-08-10,,0,0.14
+192,Angeloni,Cordero,,theater,2017-08-19,,0,0.11
+193,Kowalczyk,Faye,Turbofist,wrestling,2017-08-30,2023-12-23,2,0.08
+194,Murshed,Cherelle,,magic,2017-09-09,2018-09-05,10,0.1
+195,Perimutter,Jaida,,fashion,2017-11-10,2023-10-07,8,0.09
+196,Guanlao,Hillary,,wrestling,2017-11-12,2024-02-18,9,0.1
+197,Odeneal-Cluchey,Adriane,,comedy,2017-11-18,2022-03-01,5,0.14
+198,Kulb,Deonte,,music,2017-11-29,,21,0.13
+199,Suwalski,Elvina,,magic,2017-12-28,,13,0.1
+200,Saroyan-Behncke,Classie,,fashion,2018-01-04,,2,0.12
+201,Dobrovolny-Brierly,Margretta Gladis,,fashion,2018-01-09,,9,0.08
+202,Lynde-Grah,Lida,,theater,2018-01-26,,19,0.1
+203,Zachmeyer,Shirley,,wrestling,2018-03-04,,21,0.1
+204,Rugeley,Artie,,magic,2018-03-08,2024-05-29,7,0.11
+205,Plazola,Mychal Pernell Greggory,,magic,2018-03-27,2022-09-07,2,0.13
+206,Ziegel,Tyler,,music,2018-03-31,2023-10-24,6,0.09
+207,Beighley,Vinton,,theater,2018-04-11,2023-01-25,5,0.14
+208,Hettenbach,Sonny,Sonny H,fashion,2018-04-15,,13,0.08
+209,Kulpinski,Parlee Bulah,,theater,2018-04-28,,18,0.09
+210,Ronen,Esther,,music,2018-05-03,2023-09-07,7,0.11
+211,Keal,Ethen,,fashion,2018-05-23,,18,0.05
+212,Tuchel,Leisa,,theater,2018-06-15,,2,0.11
+213,Dolgner,Tawanda,,theater,2018-06-16,,13,0.12
+214,Basche,Pasquale,,music,2018-06-29,2019-10-12,2,0.09
+215,Cheatwood,Nonie,,dance,2018-06-29,,9,0.11
+216,Baity,Randy,,music,2018-07-07,,5,0.07
+217,Earich-Billie,Rosita,,dance,2018-07-26,,7,0.12
+218,Biegeleisen-Huband,Yasmeen,Ironlady,wrestling,2018-07-27,,19,0.11
+219,Drotos-Sellari,Melvina,,theater,2018-08-01,2021-11-19,21,0.11
+220,Milhon,Olar,,music,2018-08-10,,18,0.1
+221,Corsard,Zenas,,magic,2018-08-21,,18,0.1
+222,Crain-Ricalday,Myra,,theater,2018-08-25,,5,0.1
+223,Ricken-Poncet,Lemon Darrell,,wrestling,2018-08-25,,10,0.07
+224,Czako,Dario Rossie Harlie,,theater,2018-08-27,,9,0.09
+225,Chappelow,Donat,,magic,2018-09-09,2024-02-22,0,0.11
+226,Rolls-Sinishtaj,Kanisha,,music,2018-09-11,2022-11-09,9,0.12
+227,Radosevich,Kelan Clare,,music,2018-09-16,,19,0.08
+228,Mawdsley,Durwood,,theater,2018-09-20,2024-05-18,0,0.08
+229,Patidar-Oleaga,Lisandro,,dance,2018-10-09,,11,0.12
+230,Brouillet,Max,,music,2018-10-29,2023-10-01,18,0.11
+231,Accord,Andra,,music,2018-11-20,,2,0.08
+232,Tjaden,Lloyd,,wrestling,2018-11-22,2023-03-31,19,0.11
+233,Hasseler,Shena,,music,2018-11-22,2024-09-12,18,0.1
+234,Bachmann,Prosper Zachary,,wrestling,2018-11-28,2023-05-10,2,0.13
+235,Truesdail,Humphrey,,fashion,2018-12-02,2020-06-14,6,0.09
+236,Miramontes-Ocampo,Briana,,dance,2018-12-06,,0,0.09
+237,Celedon,Michael,,theater,2018-12-10,2023-09-15,17,0.09
+238,Heinl-Tollefsrud,Priscilla Rikki,Ricky Prism,magic,2019-01-08,,7,0.11
+239,Bohigian,Fredy,,music,2019-01-17,,5,0.12
+240,Swiss,Christene,,comedy,2019-01-29,2022-06-02,6,0.1
+241,Nadeem,Kacey Vada,,magic,2019-01-30,2024-02-22,7,0.11
+242,Spinnato,Bedford,,magic,2019-02-01,2023-08-18,18,0.1
+243,Dorilas,Arnoldo,,theater,2019-02-11,,11,0.13
+244,Disorbo,Catrina,,comedy,2019-02-13,2021-05-07,15,0.12
+245,Livecchi,Mikaila,,fashion,2019-02-16,2024-09-25,19,0.12
+246,Amazeen,Anabelle,,fashion,2019-03-04,2020-11-13,8,0.06
+247,Klien,Tristian,,theater,2019-03-24,2023-07-28,17,0.09
+248,Nuhn,Osbaldo,,theater,2019-03-25,2024-09-03,11,0.11
+249,Claydon,Juana Braelyn,Juana,music,2019-03-31,2022-12-06,11,0.11
+250,Kasin,Alexande,,magic,2019-04-13,2023-07-21,2,0.1
+251,Alhakim,Anatole Joe,The Tower,wrestling,2019-04-16,2023-01-11,8,0.1
+252,Parron,Ellen,,music,2019-04-23,2020-10-02,19,0.11
+253,Wojton,Akeem Lenord,,magic,2019-04-25,,13,0.13
+254,Nakayama-Mcsween,Caesar,,fashion,2019-04-26,2023-07-20,18,0.1
+255,Aluia-Navor,Ida,,dance,2019-05-06,,2,0.09
+256,Wimms,Shelva,,wrestling,2019-05-08,2021-08-13,7,0.11
+257,Rantala,Rogelio,,music,2019-05-10,2022-08-23,19,0.09
+258,Asbra,Karlene,,fashion,2019-05-11,2021-08-08,8,0.11
+259,Rann,Lindsay,,magic,2019-05-29,,19,0.12
+260,Monagle,Valery,,dance,2019-05-31,2023-12-11,0,0.11
+261,Servo-Denkins,Cindy,,wrestling,2019-06-10,2024-06-24,5,0.08
+262,Lachapelle,Carlos,,theater,2019-06-13,2022-10-30,21,0.13
+263,Greim,Tyrus,,fashion,2019-07-08,,0,0.08
+264,Daughety-Cracchiolo,Fannye,Fannye Funny,comedy,2019-07-09,,19,0.09
+265,Bungart,Fernando,,magic,2019-08-11,,18,0.07
+266,Seidita,Erik,,wrestling,2019-08-31,2023-05-18,2,0.1
+267,Kamimura,Bradyn Vashon,,wrestling,2019-10-20,2024-02-02,0,0.09
+268,Benker-Shigeta,Cecelia,,wrestling,2019-12-04,,11,0.07
+269,Vodden,Leander,Leo,music,2019-12-09,,19,0.13
+270,Binning,Ahmad,,theater,2019-12-13,,5,0.05
+271,Maranville,Brion,,magic,2019-12-20,2024-05-30,5,0.13
+272,Affronti,Leamon,,magic,2020-01-16,2021-10-26,14,0.05
+273,Toussant-Grosko,Tawny,,magic,2020-01-23,2022-06-10,14,0.1
+274,Danieley,Leigh,,comedy,2020-01-26,,0,0.08
+275,Ankenbruck,Cordella,,theater,2020-01-27,,9,0.1
+276,Leposa,Rube Roscoe,,dance,2020-02-12,2021-04-16,5,0.12
+277,Zeiger-Despard,Kerri,,music,2020-02-28,2022-10-09,17,0.08
+278,Balint-Imber,Williams Hoover Virgil,,fashion,2020-02-28,,21,0.05
+279,Newswanger,Ossie,,music,2020-03-05,2023-04-24,13,0.1
+280,Blackwater,Mart Sing,,dance,2020-03-16,,5,0.1
+281,Fraize-Colecchia,Dequan Clem,,dance,2020-04-07,2021-11-30,21,0.08
+282,Litchfield,Dave,,theater,2020-04-12,2023-09-26,18,0.1
+283,Berardo,Jann,,magic,2020-04-16,2024-02-18,9,0.09
+284,Simko,Jaeden Hence,,comedy,2020-04-26,,11,0.12
+285,Mik,Chloe,,theater,2020-05-07,,13,0.11
+286,Stromback,Venita Adriana,,magic,2020-05-21,,10,0.12
+287,Felchle,Gorden,,theater,2020-05-25,,10,0.12
+288,Terai,Marlo,,dance,2020-06-13,,21,0.07
+289,Portera,Chessie,,magic,2020-06-14,2022-02-13,25,0.12
+290,Derden,Kathie Melody,,music,2020-06-25,,11,0.13
+291,Lawhorn,Kailyn,,dance,2020-07-05,2024-05-21,0,0.09
+292,Plagman,Tristin,,fashion,2020-07-09,2024-08-18,2,0.1
+293,Zabicki,Rhett,,theater,2020-07-15,,11,0.11
+294,Bambrough-Zimmet,Elyse Danyell,,theater,2020-08-31,,5,0.09
+295,Minasian,Hunter,,dance,2020-09-02,2023-05-07,11,0.08
+296,Bonenfant,Ariel,,theater,2020-09-17,2024-02-17,7,0.1
+297,Cantey,Bynum,,magic,2020-09-26,2021-11-26,15,0.1
+298,Bremby-Holdorf,Jaydin,,music,2020-10-13,2024-05-25,0,0.09
+299,Ehrich-Morigeau,Wilbur,,wrestling,2020-10-17,,2,0.11
+300,Tedone-Poi,Esker Aryan,,dance,2020-10-26,2023-03-18,21,0.1
+301,Neave,Brandt Odie Brown,Odie Neave,dance,2020-10-27,2022-09-24,11,0.1
+302,Mclernon,Mia,,fashion,2020-10-30,,13,0.09
+303,Spartz,Buna,,wrestling,2020-11-02,2023-03-17,18,0.09
+304,Courtad-Mckeehen,Hertha,,magic,2020-11-08,,2,0.11
+305,Fleeson,Everett Winfield,,fashion,2020-11-28,,18,0.05
+306,Notargiacomo-Shelat,Milan,,wrestling,2020-12-06,,19,0.11
+307,Gindi,Deanna,,magic,2020-12-07,2023-03-21,29,0.09
+308,Melser,Dannielle Isa,Danny,music,2020-12-07,2024-05-09,21,0.11
+309,Kerley,Dallas Cristin,,theater,2020-12-07,2024-07-13,10,0.1
+310,Engelhard,Ronny,,theater,2020-12-07,2023-06-21,7,0.09
+311,Blaich,Burrel,,fashion,2020-12-10,,10,0.12
+312,Perlstein,Trey,,comedy,2020-12-14,2022-05-26,9,0.12
+313,Ferreyra,Regena Cari Sydnee,Queen Ferreyra,dance,2020-12-23,,9,0.12
+314,Giraldi,Gaven,,magic,2020-12-26,,10,0.13
+315,Jorges-Dellaporta,Marceline,,music,2021-01-05,,9,0.06
+316,Mollen,Perley,,magic,2021-01-12,2023-10-02,29,0.11
+317,Tabar,Orland,,magic,2021-02-23,,29,0.1
+318,Zaki,Juliette,,fashion,2021-02-24,,24,0.11
+319,Marcolongo,Abigail Clydie Eboni,Muscle Monster,wrestling,2021-02-24,2022-05-16,6,0.04
+320,Favara-Cloninger,Hallie,,fashion,2021-03-17,,13,0.11
+321,Farris,Porter,,wrestling,2021-03-21,2021-09-04,5,0.11
+322,Husom,Rowan,,theater,2021-03-27,2022-09-12,5,0.11
+323,Harrolle,Deena,,music,2021-04-07,,0,0.07
+324,Sener,Audrey,,wrestling,2021-04-07,2022-09-02,27,0.07
+325,Echerd,Shira,,music,2021-04-08,2023-06-18,25,0.08
+326,Fiorenza,Bee,,music,2021-04-27,2024-03-30,10,0.11
+327,Lii,Nohely Amie Mandy,Nohely Lii,comedy,2021-05-10,,11,0.09
+328,Dayson,Riya,,dance,2021-05-23,2023-10-31,2,0.07
+329,Venoy,Arvo,,magic,2021-05-31,2024-09-08,7,0.13
+330,Morosko-Gipple,Paityn,,theater,2021-06-09,2022-11-25,5,0.09
+331,Sweebe,Ashely,,music,2021-06-09,,18,0.08
+332,Collea,Zachariah,,comedy,2021-06-14,2022-11-25,18,0.13
+333,Tegler,Simpson,,dance,2021-06-25,2022-03-22,23,0.12
+334,Lunsford,Judah,,comedy,2021-07-04,,13,0.14
+335,Wharam,Jessee,,comedy,2021-07-06,2023-01-27,23,0.11
+336,Buba,Caden,,dance,2021-07-07,,10,0.1
+337,Simoens,Reid,,wrestling,2021-07-18,2023-11-18,28,0.11
+338,Curler-Novakovic,Jennette,Jenny Curler,music,2021-07-19,,7,0.13
+339,Escala,Bilal,,dance,2021-07-27,,21,0.08
+340,Bratka,Teagan,,fashion,2021-07-28,2023-03-28,5,0.1
+341,Cingle,Delsie,,wrestling,2021-08-19,2023-11-30,11,0.11
+342,Barach,Zain,,comedy,2021-08-29,2022-09-15,17,0.11
+343,Coban,Sonja,,theater,2021-08-30,2024-07-17,7,0.06
+344,Schauffler,Elnora Beda,,dance,2021-08-30,2024-08-30,29,0.07
+345,Drass,Zola,,theater,2021-10-01,,0,0.11
+346,Clausel,Geralyn,,comedy,2021-10-18,,30,0.1
+347,Vanremmen-Lipschutz,Jacqueline Leo,Jacky V,fashion,2021-10-23,2024-05-28,24,0.11
+348,Millan,Meggan,,dance,2021-10-27,,9,0.07
+349,Klitzing,Reinhold Bryson,,comedy,2021-11-03,,2,0.09
+350,Izlar,Delma,,dance,2021-11-04,,5,0.08
+351,Steckel,Hamp,,theater,2021-11-19,,21,0.1
+352,Basedow,Amin,,fashion,2021-11-29,2024-01-23,5,0.09
+353,Papadopoulos,Barrie Augustin,Gandalf the Blue,magic,2021-12-02,,11,0.13
+354,Rakow,Erin,,dance,2021-12-03,,24,0.11
+355,Mulac,Vic,,music,2021-12-15,,10,0.11
+356,Gleisberg,Hayes Brandan,,wrestling,2022-01-11,,13,0.12
+357,Helley,Myrtie,,fashion,2022-01-15,,0,0.12
+358,Janski,Kanisha,,wrestling,2022-01-17,,11,0.09
+359,Meenen,Skye,,comedy,2022-01-31,,5,0.11
+360,Heenan,Shelbie,,dance,2022-02-11,2023-04-23,7,0.12
+361,Zanca,Michele,,magic,2022-02-22,2024-05-09,37,0.13
+362,Maraman,Miller,,theater,2022-02-25,2023-04-29,29,0.1
+363,Sinay,Josephus Lucian,Joe Sinay,comedy,2022-03-08,,0,0.09
+364,Jolivet,Jesus,,comedy,2022-03-14,,34,0.09
+365,Whisenhunt,Adolf,Adi Whisenhunt,fashion,2022-03-17,,11,0.1
+366,Scahill,Morgan,,theater,2022-04-11,,18,0.1
+367,Gayan,Delpha Phylis Henriette,,wrestling,2022-04-13,2023-12-30,7,0.12
+368,Hardinge,Odelia Tomasa Shandra,,dance,2022-04-15,2023-11-04,24,0.1
+369,Perilli,Buna,,wrestling,2022-04-22,2024-03-21,11,0.09
+370,Neuber-Mete,Mistie,,wrestling,2022-04-29,2023-05-01,0,0.13
+371,Vanvleck,Beda,,comedy,2022-05-22,,37,0.11
+372,Koziel,Shanita Drew,,theater,2022-05-30,2023-07-15,25,0.09
+373,Mode,Macey Petra,,wrestling,2022-06-01,,37,0.12
+374,Uhlir,Dotty Deborrah,,fashion,2022-06-12,,10,0.1
+375,Parshley-Ebler,Kade Saverio,,theater,2022-06-26,,2,0.07
+376,Salguero,Joey,,magic,2022-07-10,,34,0.1
+377,Lunski-Kamps,Lance Beulah,,wrestling,2022-07-15,2024-02-21,37,0.11
+378,Shelburg,Lucio,,comedy,2022-08-03,2024-02-26,26,0.14
+379,Yildirim,Jamya,,music,2022-08-15,,21,0.07
+380,Palmersheim,Avie,,dance,2022-08-16,,13,0.1
+381,Otwell,Alena Kallie,,dance,2022-08-19,,29,0.09
+382,Nimmons,Guadalupe Math,,comedy,2022-08-20,,29,0.06
+383,Kirnon,Garrison,,wrestling,2022-08-22,2024-06-12,2,0.11
+384,Younie-Bourda,Celina Antionette,La Baguette Magique,magic,2022-09-18,2023-07-31,23,0.11
+385,Noffke-Nahass,Permelia,,wrestling,2022-09-19,2024-08-31,11,0.14
+386,Solley,Isadore,,wrestling,2022-09-22,2023-11-09,37,0.11
+387,Wonderley,Hester,,music,2022-10-01,,5,0.05
+388,Downy,Bonita,,theater,2022-10-23,,24,0.1
+389,Knock-Mcinnish,Michaele,,fashion,2022-10-31,2024-07-28,13,0.09
+390,Argotsinger-Faieta,Dana,Dancing Dana,wrestling,2022-11-15,,18,0.11
+391,Heiple,Von,,dance,2022-11-16,,21,0.14
+392,Cawthorn,Rhonda,,wrestling,2022-11-18,,7,0.09
+393,Plant,Koen,,theater,2022-11-20,,30,0.08
+394,Derick,Fae,,dance,2022-11-23,2024-02-17,10,0.12
+395,Turvin,Durell Fate,,fashion,2022-12-12,2024-02-20,17,0.09
+396,Orlikowski,Christop,Chris Orly,comedy,2022-12-27,2024-07-19,9,0.13
+397,Arrivillaga,Garret,,music,2023-01-13,,24,0.09
+398,Rybarski,Tennille,,theater,2023-01-26,2024-08-18,18,0.1
+399,Ordon,Tolbert,,dance,2023-02-10,2024-10-15,0,0.11
+400,Nadir,Benton,,magic,2023-02-21,,2,0.08
+401,Dellaporta,Myrtle,,comedy,2023-02-24,,37,0.09
+402,Pavlenko,Erla,,comedy,2023-03-10,,7,0.13
+403,Cucci,Monique Cristen,,comedy,2023-03-14,,19,0.12
+404,Punzo,Kasandra,,dance,2023-03-15,,29,0.1
+405,Ostenberg,Graham Squire,,music,2023-03-20,,11,0.11
+406,Blanchar-Unkefer,Heriberto Caiden Roma,The Vanisher,magic,2023-03-21,2024-10-11,30,0.08
+407,Pinillos,Gwenda Maebell,,fashion,2023-03-24,,34,0.08
+408,Gansen,Aedan Tito Omar,,theater,2023-03-28,,13,0.12
+409,Ludena,Marleen Mozelle,,fashion,2023-03-29,2024-07-20,34,0.09
+410,Spees,Zachery Cesar,,magic,2023-04-08,,13,0.12
+411,Soltero,Zayne,,comedy,2023-04-08,,40,0.12
+412,Tessmann,Alethea,,theater,2023-04-28,,13,0.13
+413,Behrns-Zizelman,Shanelle,,dance,2023-05-04,,11,0.08
+414,Novakovic-Banovich,Rudolfo,,fashion,2023-05-05,,21,0.13
+415,Meir-Orchard,Elvera Suzann,,comedy,2023-05-08,,0,0.08
+416,Boush,Natalee Brandon,,theater,2023-05-16,2024-04-09,21,0.1
+417,Fernau,Hurley Arlin,,music,2023-05-17,2024-03-11,17,0.06
+418,Liney,Fernanda,,music,2023-05-27,,0,0.09
+419,Weekly-Arrowood,Hugh,,magic,2023-06-05,2024-10-03,40,0.09
+420,Khait,Sydni,,theater,2023-06-10,2024-02-12,2,0.11
+421,Gerdeman,Michelle,,fashion,2023-06-10,,0,0.11
+422,Perreault,Glynis,,wrestling,2023-06-17,,7,0.09
+423,Vukovich,Cherryl,Cherry,music,2023-06-24,2023-11-05,34,0.06
+424,Tkachev,Margarette,,theater,2023-06-28,2024-05-17,23,0.12
+425,Endecott,Saverio,,magic,2023-07-07,,13,0.1
+426,Mclemore-Sava,Keon Glen,,wrestling,2023-07-19,,5,0.14
+427,Gerteisen,Dameon Larue,,music,2023-07-20,2024-09-06,9,0.1
+428,Golebiewski,Sharonda,,comedy,2023-07-30,,0,0.11
+429,Orton,Marleen,,fashion,2023-08-01,,37,0.1
+430,Carril-Aurelius,Arabella Krystle,,dance,2023-08-05,2024-07-17,18,0.1
+431,Salaam,Jenna,,music,2023-08-05,,29,0.08
+432,Noval,Brock,,dance,2023-08-19,,7,0.08
+433,Eden,Charles,Charlie Eden,music,2023-08-20,,18,0.07
+434,Chiumento-Crowe,Hervey,,music,2023-08-23,,43,0.11
+435,Raveld,Iesha,,music,2023-08-23,2024-07-21,7,0.1
+436,Loeser,Tommy Grove,,magic,2023-09-01,,5,0.09
+437,Compas,Nelda,,theater,2023-09-08,,30,0.14
+438,Poff,Yee Loren,,dance,2023-09-13,2024-07-18,19,0.1
+439,Pottebaum,Alcide Keyshawn,,fashion,2023-09-15,,37,0.06
+440,Cugliari,Ailene Ilona,,theater,2023-09-18,,24,0.12
+441,Panuccio,Hal Buster,Hal Panuccio,fashion,2023-09-21,2024-08-07,40,0.13
+442,Marcott,Kobe Eligah,,dance,2023-09-27,,34,0.15
+443,Alderink-Kwang,Suzanne,,fashion,2023-10-06,2024-06-13,26,0.09
+444,Domer,Kaylin Tamekia Pepper,Salt & Pepper,wrestling,2023-10-09,,13,0.09
+445,Leetch-Myles,Catherine Stoney,,music,2023-10-12,,2,0.09
+446,Pietryka,Linnea,,theater,2023-10-12,,43,0.09
+447,Swamp,Kendrick Eleanor,,magic,2023-11-13,,24,0.09
+448,Calisti-Adebayo,Thelma Gussie,,wrestling,2023-11-20,2024-05-29,43,0.07
+449,Mcculla,Eston,,music,2023-11-27,,29,0.09
+450,Jeannotte,Winfield,,fashion,2023-12-06,2024-02-20,5,0.1
+451,Williard-Yacoub,Quinton Thornton,Quinton Yacoub,fashion,2023-12-12,2024-07-11,40,0.1
+452,Kolakoski,Will,,theater,2023-12-20,2024-03-26,37,0.08
+453,Kallinen-Hibshman,Samira,Sami,music,2023-12-22,,43,0.1
+454,Fangmeier,Jamie,,magic,2023-12-29,2024-07-14,18,0.1
+455,Rizkallah,Marshall Jaquez,,music,2024-01-06,,30,0.09
+456,Hinckley,Deangelo,,magic,2024-01-19,,11,0.15
+457,Petsas,Audie,,fashion,2024-01-26,,29,0.1
+458,Hosan,Dortha,,theater,2024-02-02,,24,0.1
+459,Kurman,Irving,,dance,2024-02-12,2024-09-11,24,0.07
+460,Sonenberg,Geo Demond Wilfredo,,music,2024-02-12,2024-06-10,2,0.08
+461,Kurta,Fannie,,dance,2024-02-17,,37,0.09
+462,Mady,Kazuo,,music,2024-02-20,2024-10-22,7,0.11
+463,Slavens,Jeromy Reid,,magic,2024-02-29,2024-08-02,36,0.11
+464,Nash,Tyree,,comedy,2024-03-04,,9,0.07
+465,Studtmann,Olevia,Maggie Magic,magic,2024-03-18,,18,0.11
+466,Knoop,Jason,,dance,2024-03-20,,43,0.09
+467,Goertz-Skeem,Banks Jameson,,fashion,2024-03-20,,7,0.07
+468,Cigala-Arganbright,Ariel,,magic,2024-03-26,,30,0.1
+469,Coba,Santana,,wrestling,2024-04-02,,46,0.12
+470,Shuell,Tammie,,dance,2024-04-03,,37,0.1
+471,Mackenzie,Winthrop Thor,Thor Mac,music,2024-04-10,,7,0.1
+472,Huycke,Kerry Maxie,,wrestling,2024-04-15,2024-07-24,34,0.1
+473,Privitera,Sherman,,wrestling,2024-05-08,,7,0.11
+474,Ikner,Sharman Cristina,,music,2024-05-12,2024-07-12,42,0.1
+475,Rozas,Jacquelin,,theater,2024-05-14,2024-10-21,13,0.06
+476,Laue,Adelle Hester Elisabeth,,dance,2024-05-19,2024-10-20,5,0.09
+477,Herpich,Fred,,comedy,2024-05-21,,0,0.07
+478,Kuisle,Virgil,,music,2024-05-25,2024-08-08,46,0.11
+479,Kirland,Jeremy,,magic,2024-05-28,,7,0.08
+480,Streckfus,Judith,Judie Stretch,music,2024-05-28,,2,0.11
+481,Carrizosa,Dillion Tylor,,fashion,2024-05-31,2024-10-21,30,0.09
+482,Hoerst-Ragsdale,Ivan,,music,2024-06-05,2024-10-15,13,0.1
+483,Toppel,Kalen Ignacio Jed,,theater,2024-06-18,,18,0.07
+484,Zim,Adron,,fashion,2024-06-19,2024-10-23,11,0.08
+485,Snelling,Araceli,,comedy,2024-06-30,2024-10-19,24,0.12
+486,Langholz,Barbara,,theater,2024-07-03,2024-10-17,11,0.13
+487,Farless,Evert,,fashion,2024-07-04,,13,0.12
+488,Zaldana,Caren Sherilyn,,theater,2024-07-16,2024-10-15,10,0.08
+489,Ehle,Colten,,theater,2024-07-24,2024-10-09,43,0.11
+490,Stellhorn,Jacqulyn,Jacky Stellhorn,music,2024-07-25,2024-10-11,34,0.11
+491,Buzzard-Spidel,Soloman,,theater,2024-08-03,,0,0.11
+492,Perreira,Etter Myla,,fashion,2024-08-08,,18,0.08
+493,Obradovich-Jurgensmeier,Denzil,Denzil Devastating,wrestling,2024-08-12,,34,0.12
+494,Trish,Karter,,fashion,2024-08-18,,34,0.1
+495,Ferlin,Elva Dean,Elva Merlin,magic,2024-08-29,,40,0.09
+496,Walston,Reuben,,wrestling,2024-09-10,,13,0.09
+497,Cenicola-Lucido,Tommie,,fashion,2024-09-10,,0,0.12
+498,Reres,Adela,,magic,2024-09-24,2024-10-25,21,0.11
+499,Balmain,Bird Willian Virginia,Birdie Balmain,dance,2024-09-29,2024-10-29,2,0.09
+500,Frichtl,Kiya,,theater,2024-10-03,,2,0.13
